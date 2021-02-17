@@ -25,3 +25,5 @@ A simple boilerplate for an electron app with react
 
 * Open one terminal window and execute -  `npm run watch`
 * Open second terminal window and execute - `npm start`
+
+`npm run watch` must be run to compile the code. Otherwise, it will not work.
